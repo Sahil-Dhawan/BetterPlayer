@@ -1,0 +1,93 @@
+
+.button{
+	-fx-background-color: transparent;
+}
+#seek{
+	-fx-opacity:0.0 ;
+}
+#seek:hover{
+	-fx-opacity:1;
+}
+#menuBar{
+	-fx-opacity:0.0 ;
+}
+#menuBar:hover{
+	-fx-opacity:1;
+}
+#openFile{
+-fx-background-image:url("../application/icons/open.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#pauseButton{
+-fx-background-image:url("../application/icons/pause.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:repeat;
+-fx-background-position:center ;
+
+}
+#playButton{
+-fx-background-image:url("../application/icons/play.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:repeat ;
+-fx-background-position:center ;
+
+}
+#stopButton{
+-fx-background-image:url("../application/icons/stop.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#skipLeft{
+-fx-background-image:url("../application/icons/backward.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#skipRight{
+-fx-background-image:url("../application/icons/forward.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#slow{
+-fx-background-image:url("../application/icons/slow.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#fast{
+-fx-background-image:url("../application/icons/fast.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#reset{
+-fx-background-image:url("../application/icons/reset.png");
+-fx-background-size: 25 25;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#decreaseVolume{
+-fx-background-image:url("../application/icons/decreaseVolume.png");
+-fx-background-size: 18 18;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
+#increaseVolume{
+-fx-background-image:url("../application/icons/increaseVolume.png");
+-fx-background-size: 18 18;
+-fx-background-repeat:no-repeat;
+-fx-background-position:center ;
+
+}
